@@ -6,9 +6,9 @@ Each file contains the code to fill (findable [here](https://github.com/hse-aml/
 ## Week 1:
 **Multilabel Classification**
 ## Week 2:
-**Named entity recognition**: Language modelling, Sequence tagging
+**Named entity recognition**: Language modelling, sequence tagging
 ## Week 3:
-**Embeddings:** Words and sentences embeddings, Topics models
+**Embeddings:** Words and sentences embeddings, topics models
 ## Week 4:
-**Sequence to sequence:** Statistical machine translation, Encoder-Decoder attention architecture, summarization and simplification tasks
+**Sequence to sequence:** Statistical machine translation, encoder-decoder attention architecture, summarization and simplification tasks
 
